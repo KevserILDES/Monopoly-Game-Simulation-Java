@@ -1,0 +1,19 @@
+number of players
+player1's name
+player2's name
+.
+.
+.
+playerN's name
+player's starting money
+go square passing money
+number of tax squares
+tax amount of tax square
+number of go to jail squares
+money amount to go out of jail
+number of tax cards
+money amount of tax cards
+number of luck cards
+money amount of luck cards
+number of go to jail cards
+number of card squares
